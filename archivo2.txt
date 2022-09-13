@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 otravez
+=======
+chancho a regresado
+>>>>>>> ramab
